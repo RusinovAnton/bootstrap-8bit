@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-8bit",
+  "version": "1.0.0",
+  "description": "8bit theme for bootstrap",
+  "main": " ",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "scss",
+    "8bit",
+    "pixel",
+    "theme",
+    "css",
+    "style"
+  ],
+  "author": "Rusinov Anton",
+  "license": "MIT"
+}
